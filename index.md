@@ -2,15 +2,17 @@
 
 layout: col-sidebar
 title: OWASP Inland Empire
-tags: example-tag
-level: 0
+tags: Inland Empire
 
 region: United States
 
-auto-migrated: 1
 
 ---
+Welcome
+-------
+Welcome to the Inland Empire chapter homepage. The Chapter Leaders are Alex Lafrenz and Brett Gravois [contact](leaders.md).
 
+We Meet on the 2nd Friday of the month, information can be found at: https://www.meetup.com/OWASP-Inland-Empire-Open-Web-Application-Security-Project/
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
