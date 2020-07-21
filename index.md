@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Inland Empire
 tags: Inland Empire
 
-region: United States
+region: North America
 
 
 ---
