@@ -6,6 +6,9 @@ tags: Inland Empire
 
 region: North America
 
+meetup-group: OWASP-Inland-Empire-Open-Web-Application-Security-Project
+country: USA
+postal-code: 91711
 
 ---
 Welcome
